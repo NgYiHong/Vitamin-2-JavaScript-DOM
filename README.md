@@ -1,1 +1,1 @@
-# Vitamin-3-JavaScript-DOM
+# Vitamin-2-JavaScript-DOM
